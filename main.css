@@ -1,0 +1,110 @@
+.header-item{
+    border: 2px solid #7f5539;
+    background-color: #7f5539;
+    height: 60px;
+    font-size: 23px;
+    color: #fff;
+    border-radius: 10px;
+}
+@font-face {
+    font-family: "IranYekanRegular";
+    src:url("./fonts/IRANYekanRegular.ttf") format("truetype")
+}
+.logo{
+    width: 250px;
+    height: 60px;
+    margin-bottom: 15px;
+}
+.panel{
+    background-color: #e7bc91;
+    border-radius: 7px;
+    height: 570px;
+    font-size: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.panel ul li a{
+    padding: 60px;
+}
+.hdv{
+    background-color: #b08968;
+    width: 90%;
+    height: 180px;
+    margin: 15px;
+    border-radius: 10px;
+    margin-bottom: 0%;
+    font-size: 17px;
+}
+.olol{
+    background-color: #9c6644;
+    border-radius: 10px;
+    font-size: 25px;
+    width: 100%;
+}
+.hh{
+    font-size: 18px;
+}
+.logos{
+    width: 250px;
+    height: 60px;
+    margin-top: 12px;
+}
+.text{
+    color: #fff
+}
+.ava1{
+    border-radius: 50%;
+    width: 160px;border-style:solid;
+    border-width:3px;
+    border-color:black;
+    margin-top: 10px;
+}
+.ava2{
+    border-radius: 50%;
+    width: 160px;
+    border-style:solid;
+    border-width:3px;
+    border-color:black;
+    margin-top: 10px;
+}
+.ava3{
+    border-radius: 50%;
+    width: 160px;
+    border-style:solid;
+    border-width:3px;
+    border-color:black;
+    margin-top: 10px;
+}
+.text-center{
+    width: 100%;
+}
+.pe-5{
+    margin-top: 10px;
+}
+.hm{
+    margin-left: 250px;
+}
+.qs1{
+    margin-left: 200px;
+    margin-top: 40px;
+}
+.qs2{
+    margin-left: 107px;
+    margin-top: 40px;
+}
+.qs3{
+    margin-left: 108px;
+    margin-top: 40px;
+}
+.qs4{
+    margin-left: 100px; 
+    margin-top: 40px;
+}
+.qs5{
+    margin-left: 155px;
+    margin-top: 40px;
+}
+.qs6{
+    margin-left:147px;
+    margin-top: 40px;
+}
